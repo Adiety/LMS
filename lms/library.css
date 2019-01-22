@@ -1,0 +1,62 @@
+.bg-light
+{
+	background-color: #ffcccc !important;
+}
+
+.btn-outline-success
+{
+	color: black;
+	border-color: black;
+}
+
+.h5
+{
+	font-size: 20px;
+	font-weight: 800;
+	color: #3333ff;
+}
+
+.red
+{
+	background-image: url("https://www.hdwallpapers.in/walls/red_in_abstract-wide.jpg");
+	background-size: cover;
+    background-position: center;
+}
+
+.font
+{
+font-family: 'Roboto Slab', sans-serif;
+    color: white;
+}
+
+.navback
+{
+	background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/polygonal-grey-shapes-geometric-video-clip-animation-motion-background-hd-4k-3840x2160_sz9rhuymx_thumbnail-full01.png');
+	background-size: cover;
+    background-position: center;
+}
+
+body
+{
+	background-image: url('https://i.imgur.com/eeQeRmk.png');
+	background-size: cover;
+    background-position: center;
+}
+
+.dark
+{
+	filter: brightness(50%);
+}
+
+.divback
+{
+	background-image: url('https://i.imgur.com/eeQeRmk.png');
+	background-size: cover;
+    background-position: center;
+}
+
+/*font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;*/
